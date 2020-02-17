@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Flash Cards</string>
+
+    <string name="dialog_add_subject">Add Your Subject</string>
+    <string name="no_more_subjects">No More Subjects</string>
+    <string name="plus">+</string>
+    <string name="my_subjects">My Subjects</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="close_dialog">Close Dialog</string>
+    <string name="save">Save</string>
+    <string name="create_new_subject">Create New Subject</string>
+    <string name="subject">Subjects</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="create_now">Create Now</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all">Delete All</string>
+    <string name="menu">menu</string>
+    <string name="cards">Cards</string>
+    <string name="front_side">This is a front side. It should be a Word, or a Question.</string>
+    <string name="back_side">This is a back side. It should be a Definition, or an Answer.</string>
+</resources>
