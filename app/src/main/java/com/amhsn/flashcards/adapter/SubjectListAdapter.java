@@ -43,7 +43,7 @@ public class SubjectListAdapter extends RecyclerView.Adapter<SubjectListAdapter.
             holder.subjectLinearLayout.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Log.d(TAG, "onClick: navigating to card subject and pass data");
+//                    Log.d(TAG, "onClick: navigating to card subject and pass data");
                     Intent intent = new Intent(context, CardActivity.class);
                     intent.putExtra("SUBJECT_EXTRA_ID", list.get(position).getId());
                     context.startActivity(intent);
